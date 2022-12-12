@@ -7,5 +7,5 @@ resources:
 
 images:
 - name: zalerix/continuous-delivery-example:latest
-  newName: zalerix/continuous-delivery-example
-  newTag: 1.2.0
+  newName: alecsadam75/continuous-delivery-example
+  newTag: 1.0.4
